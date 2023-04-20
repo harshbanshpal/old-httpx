@@ -18,4 +18,4 @@ mv httpx httpx1 (To rename file)
 cp /home/kali/old-httpx/httpx /usr/bin (Example)
 
 
-Good to run :)
+## Good to run :)
